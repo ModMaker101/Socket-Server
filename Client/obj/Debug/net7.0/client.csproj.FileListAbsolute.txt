@@ -1,0 +1,15 @@
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.csproj.AssemblyReference.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.AssemblyInfoInputs.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.AssemblyInfo.cs
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\client.exe
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\client.deps.json
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\client.runtimeconfig.json
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\client.dll
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\client.pdb
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.dll
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\refint\client.dll
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.pdb
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\client.genruntimeconfig.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\ref\client.dll

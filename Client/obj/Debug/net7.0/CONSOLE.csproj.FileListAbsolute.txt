@@ -1,0 +1,15 @@
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\CONSOLE.exe
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\CONSOLE.deps.json
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\CONSOLE.runtimeconfig.json
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\CONSOLE.dll
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\bin\Debug\net7.0\CONSOLE.pdb
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.csproj.AssemblyReference.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.AssemblyInfoInputs.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.AssemblyInfo.cs
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.dll
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\refint\CONSOLE.dll
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.pdb
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\CONSOLE.genruntimeconfig.cache
+C:\Users\chase\source\repos\CONSOLE\CONSOLE\obj\Debug\net7.0\ref\CONSOLE.dll
